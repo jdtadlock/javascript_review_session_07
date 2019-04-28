@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/jdtadlock/javascript_review_session_07#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0"
   },
   "devDependencies": {},
   "keywords": [],
