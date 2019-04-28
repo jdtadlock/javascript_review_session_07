@@ -1,0 +1,25 @@
+{
+  "name": "review_07",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "blah": "mkdir test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdtadlock/javascript_review_session_07.git"
+  },
+  "author": "JD Tadlock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdtadlock/javascript_review_session_07/issues"
+  },
+  "homepage": "https://github.com/jdtadlock/javascript_review_session_07#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
